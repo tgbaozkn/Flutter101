@@ -1,6 +1,16 @@
-# Flutter101
-Flutter apps from 0 to highest levels
-If you want to code apps of ios and android in same time you can use flutter. 
-Flutter is developed by Google.
-Flutter has "Hot Reload" feature and this provides that you can see the changes what you change thing on UI soon.
-I used fake Android device from Android Studio Emulator and I used Visual Studio Code for coding UI because my pc ram is 8gb so very slow when i used android studio ide. 
+# first_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
