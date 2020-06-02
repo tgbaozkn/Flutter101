@@ -22,12 +22,12 @@ class MyApp extends StatefulWidget
   Widget build(BuildContext context) {
     final questions = const [
     {
-      'questionText': 'What\'s your favorite color?',
+      'questionText': "What\'s your favorite color?",
       'answers': [
-        {'text': 'Black', 'score': 10},
+        {'text': 'White', 'score': 10},
         {'text': 'Red', 'score': 5},
         {'text': 'Green', 'score': 3},
-        {'text': 'White', 'score': 1},
+        {'text': 'Purple', 'score': 1},
       ],
     },
     {
@@ -42,10 +42,10 @@ class MyApp extends StatefulWidget
     {
       'questionText': 'Who\'s your favorite instructor?',
       'answers': [
-        {'text': 'Max', 'score': 1},
-        {'text': 'Max', 'score': 1},
-        {'text': 'Max', 'score': 1},
-        {'text': 'Max', 'score': 1},
+        {'text': 'Tarkan', 'score': 1},
+        {'text': 'Tarkan', 'score': 1},
+        {'text': 'Tarkan', 'score': 1},
+        {'text': 'Tarkan', 'score': 1},
       ],
     },
   ];
